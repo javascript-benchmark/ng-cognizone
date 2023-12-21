@@ -1,0 +1,37 @@
+{
+  "name": "@cognizone/legi-styles",
+  "version": "3.7.1",
+  "peerDependencies": {
+    "@angular/material": ">=11.0.0",
+    "bootstrap": "^4.0.0",
+    "material-design-icons": "^3.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/cognizone/ng-cognizone",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cognizone/ng-cognizone.git",
+    "directory": "libs/legi-styles"
+  },
+  "contributors": [
+    {
+      "name": "William Chelman",
+      "email": "william.chelman@cogni.zone"
+    },
+    {
+      "name": "Farah El Agha",
+      "email": "farah.agha111@gmail.com"
+    }
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "/fonts",
+    "/styles"
+  ]
+}

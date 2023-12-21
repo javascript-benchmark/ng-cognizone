@@ -1,0 +1,36 @@
+{
+  "name": "@cognizone/legi-cv",
+  "version": "3.7.1",
+  "peerDependencies": {
+    "@cognizone/i18n": ">=3.0.0",
+    "@cognizone/json-model": ">=3.0.0",
+    "@cognizone/model-utils": ">=3.0.0",
+    "@cognizone/ng-core": ">=3.0.0",
+    "@ngxs/store": "^3.7.2",
+    "lodash-es": "^4.17.21"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/cognizone/ng-cognizone",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cognizone/ng-cognizone.git",
+    "directory": "libs/legi-cv"
+  },
+  "contributors": [
+    {
+      "name": "William Chelman",
+      "email": "william.chelman@cogni.zone"
+    },
+    {
+      "name": "Farah El Agha",
+      "email": "farah.agha111@gmail.com"
+    }
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "@cognizone/i18n",
+  "version": "3.7.1",
+  "peerDependencies": {
+    "@cognizone/model-utils": ">=3.0.0",
+    "@angular/core": ">=14.0.0",
+    "@angular/platform-browser-dynamic": ">=14.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/cognizone/ng-cognizone",
+  "contributors": [
+    {
+      "name": "William Chelman",
+      "email": "william.chelman@cogni.zone"
+    },
+    {
+      "name": "Farah El Agha",
+      "email": "farah.agha111@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cognizone/ng-cognizone.git",
+    "directory": "libs/i18n"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}

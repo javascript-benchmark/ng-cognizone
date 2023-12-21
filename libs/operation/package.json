@@ -1,0 +1,37 @@
+{
+  "name": "@cognizone/operation",
+  "version": "3.7.1",
+  "peerDependencies": {
+    "@cognizone/devtools": ">=3.0.0",
+    "@cognizone/model-utils": ">=3.0.0",
+    "@cognizone/ng-core": ">=3.0.0",
+    "@angular/material": ">=14.0.0",
+    "@angular/router": ">=14.0.0",
+    "ngx-json-viewer": "^3.0.2",
+    "@ngxs/store": "^3.7.2"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/cognizone/ng-cognizone",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cognizone/ng-cognizone.git",
+    "directory": "libs/operation"
+  },
+  "contributors": [
+    {
+      "name": "William Chelman",
+      "email": "william.chelman@cogni.zone"
+    },
+    {
+      "name": "Farah El Agha",
+      "email": "farah.agha111@gmail.com"
+    }
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
