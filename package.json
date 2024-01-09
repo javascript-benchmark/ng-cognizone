@@ -67,7 +67,7 @@
     "@ngneat/transloco-locale": "^1.4.0",
     "@ngxs/devtools-plugin": "^3.7.5",
     "@ngxs/store": "^3.7.5",
-    "@nrwl/angular": "15.1.0",
+    "@nrwl/angular": "15.8.0",
     "@types/lodash-es": "^4.17.4",
     "bootstrap": "^4.6.0",
     "chokidar": "^3.5.3",
