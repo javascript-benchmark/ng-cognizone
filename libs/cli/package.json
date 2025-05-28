@@ -27,7 +27,7 @@
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
     "cosmiconfig": "^7.0.0",
-    "execa": "^4.0.0",
+    "execa": "^9.6.0",
     "handlebars": "^4.7.2",
     "immer": "^9.0.1",
     "jsonc-parser": "^3.0.0",
